@@ -28,14 +28,14 @@ const CONFIG = {
             secretAnswer: "A place with no people❗"           // Secret hover message
         },
         second: {
-            text: "Who usually loses at Mario Kart? 🏎️🍄🏁🎮",                          // For the love meter
-            startText: "You know who...",                                   // Text before the percentage
-            nextBtn: "Next"                                         // Text for the next button
+            text: "What do I like most about you? 🏎️🍄🏁🎮",                          // For the love meter
+            startText: "What could it be?",                                   // Text before the percentage
+            nextBtn: "After you check the thermometer, click here"                                         // Text for the next button
         },
         third: {
-            text: "Which song would instantly make you think of us?", // The big question!
-            yesBtn: "Kendrick Lamar - heart pt. 6",                                             // Text for "Yes" button
-            noBtn: "Golden - KPop Demon Hunters"                                                 // Text for "No" button
+            text: "Amateur coder at work?", // The big question!
+            yesBtn: "Yes",                                             // Text for "Yes" button
+            noBtn: "No"                                                 // Text for "No" button
         }
     },
 
@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "Our long cozy nights together 🥰",  // Shows when they go past 5000%
         high: "The way you quietly judge chaos but somehow make it amusing",              // Shows when they go past 1000%
-        normal: "Your perfectionist streak that drives both of us nuts but works 🥰"                           // Shows when they go past 100%
+        normal: "Your perfectionism that drives both of us a little crazy but works 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
@@ -57,10 +57,10 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
+        backgroundStart: "60AFFF",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#3066BE",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "963484",     // Button color (should stand out against the background)
+        buttonHover: "AEB8FE",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
 
