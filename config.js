@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "I value every moment we spend together",
         message: "Having you in my life is something I never take for granted and I feel lucky every day",
-        emojis: "🤗♥️"  // These will bounce around
+        emojis: "🤗"  // These will bounce around
     },
 
     // Color scheme for the website
