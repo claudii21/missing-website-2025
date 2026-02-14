@@ -60,7 +60,7 @@ colors: {
     backgroundStart: "#88304E",      // Soft blue gradient start — calm and soothing
     backgroundEnd: "#522546",        // Deep navy gradient end — adds depth and contrast
     buttonBackground: "#2C2C2C",     // Matches gradient end — stands out without clashing
-    buttonHover: "#88304E",          // Lighter blue for subtle hover effect
+    buttonHover: "#F7374F",          // Lighter blue for subtle hover effect
     textColor: "#19183B"             // Soft off-white — readable against dark background
 },
 
