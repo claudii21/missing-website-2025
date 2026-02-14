@@ -81,7 +81,7 @@ colors: {
         musicUrl: "https://res.cloudinary.com/do81earks/video/upload/v1771107250/Gravac%CC%A7a%CC%83o_nova_ocoli3.m4a", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.7                        // Volume level (0.0 to 1.0)
     }
 };
 
