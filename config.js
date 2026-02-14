@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Your calm presence",  // Shows when they go past 5000%
+        extreme: "And how we approach everything together, the best partner and teammate I could ask for",  // Shows when they go past 5000%
         high: "Your commitment to what you promise",              // Shows when they go past 1000%
-        normal: "And how we approach everything together, the best partner and teammate I could ask for"                           // Shows when they go past 100%
+        normal: "Your calm presence"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
