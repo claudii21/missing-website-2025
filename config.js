@@ -57,9 +57,9 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
 colors: {
-    backgroundStart: "#3A7BD5",      // Soft blue gradient start — calm and soothing
+    backgroundStart: "#88304E",      // Soft blue gradient start — calm and soothing
     backgroundEnd: "#522546",        // Deep navy gradient end — adds depth and contrast
-    buttonBackground: "#0B1D3A",     // Matches gradient end — stands out without clashing
+    buttonBackground: "#2C2C2C",     // Matches gradient end — stands out without clashing
     buttonHover: "#88304E",          // Lighter blue for subtle hover effect
     textColor: "#19183B"             // Soft off-white — readable against dark background
 },
