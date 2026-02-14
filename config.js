@@ -58,9 +58,9 @@ const CONFIG = {
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
 colors: {
         backgroundStart: "#8A244B",
-        backgroundEnd: "#111F35",
-        buttonBackground: "#FDFFE2",
-        buttonHover: "#D02752",
+        backgroundEnd: "#5A0E24",
+        buttonBackground: "#111F35",
+        buttonHover: "#76153C",
         textColor: "#1A2130"
 },
 
