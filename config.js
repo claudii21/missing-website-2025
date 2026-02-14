@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "And how we approach everything together, the best partner and teammate I could ask for",  // Shows when they go past 5000%
+        extreme: "And how we approach everything together, the best partner I could ask for",  // Shows when they go past 5000%
         high: "Your commitment to what you promise",              // Shows when they go past 1000%
         normal: "Your calm presence"                           // Shows when they go past 100%
     },
@@ -61,7 +61,7 @@ colors: {
     backgroundEnd: "#0B1D3A",        // Deep navy gradient end — adds depth and contrast
     buttonBackground: "#0B1D3A",     // Matches gradient end — stands out without clashing
     buttonHover: "#5A8FE2",          // Lighter blue for subtle hover effect
-    textColor: "19183B"             // Soft off-white — readable against dark background
+    textColor: "#19183B"             // Soft off-white — readable against dark background
 },
 
     // Animation settings
