@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['💙', '💙'],  // Heart emojis
+        hearts: ['♥️'],  // Heart emojis
         bears: ['🦭','🐰','🐹','🦦']                       // Seal and Bear emojis
     },
 
@@ -61,7 +61,7 @@ colors: {
     backgroundEnd: "#0B1D3A",        // Deep navy gradient end — adds depth and contrast
     buttonBackground: "#0B1D3A",     // Matches gradient end — stands out without clashing
     buttonHover: "#5A8FE2",          // Lighter blue for subtle hover effect
-    textColor: "#E0E6F2"             // Soft off-white — readable against dark background
+    textColor: "19183B"             // Soft off-white — readable against dark background
 },
 
     // Animation settings
