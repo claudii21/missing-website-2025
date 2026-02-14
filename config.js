@@ -9,12 +9,12 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 🐰💪🍿
-    pageTitle: "Reminding you how much you’re missed",
+    pageTitle: "to my favorite person",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['♥️', '♥️'],  // Heart emojis
+        #hearts: ['♥️', '♥️'],  // Heart emojis
         bears: ['🦭', '🦜']                       // Seal and Bear emojis
     },
 
@@ -22,15 +22,15 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "If you could teleport me to San Francisco, where would we go first?",                                    // First interaction
-            yesBtn: "Telegraph Hill",                                             // Text for "Yes" button
-            noBtn: "Japanese Tea Garden",                                               // Text for "No" button
-            secretAnswer: "A place with no people❗"           // Secret hover message
+            text: "Who likes to ask questions during a movie?",                                    // First interaction
+            yesBtn: "Me (obviously)",                                             // Text for "Yes" button
+            noBtn: "You (the patient one)",                                               // Text for "No" button
+            secretAnswer: "We both secretly enjoy the commentary anyway, right?"           // Secret hover message
         },
         second: {
-            text: "What do I like most about you? 🏎️🍄🏁🎮",                          // For the love meter
-            startText: "What could it be?",                                   // Text before the percentage
-            nextBtn: "After you check the thermometer, click here"                                         // Text for the next button
+            text: "What do I like most about you?",                          // For the love meter
+            startText: "Let’s see…what stands out?",                                   // Text before the percentage
+            nextBtn: "Check the thermometer, then click here"                                         // Text for the next button
         },
         third: {
             text: "Amateur coder at work?", // The big question!
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Our long cozy nights together 🥰",  // Shows when they go past 5000%
-        high: "The way you quietly judge chaos but somehow make it amusing",              // Shows when they go past 1000%
-        normal: "Your perfectionism that drives both of us a little crazy but works 🥰"                           // Shows when they go past 100%
+        extreme: "Your calm presence",  // Shows when they go past 5000%
+        high: "Your commitment to what you promise",              // Shows when they go past 1000%
+        normal: "And how we approach everything together, the best partner and teammate I could ask for"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I value every moment we spend together",
-        message: "Having you in my life is something I never take for granted and I feel lucky every day",
-        emojis: "🤗"  // These will bounce around
+        title: "I value every moment with you",
+        message: "Being with you makes me grateful every single day",
+        emojis: "♥️"  // These will bounce around
     },
 
     // Color scheme for the website
