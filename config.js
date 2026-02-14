@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['♥️', '♥️'],  // Heart emojis
-        bears: ['🦭', '🦜']                       // Seal and Bear emojis
+        bears: ['🦭','🐰','🐹','🦦']                       // Seal and Bear emojis
     },
 
     // Questions and answers
